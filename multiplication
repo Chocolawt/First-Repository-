@@ -1,0 +1,4 @@
+var number = prompt ("Pick any number");
+var randNumber = prompt ("Choose another number"); 
+var together = number * randNumber;
+window.alert(together); 
